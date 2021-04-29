@@ -1,13 +1,3 @@
-# HelloWorld
-
-
->
->Hello
->
->World
->
-
-Ⓞ═╦╗
-
+# For ELDRAZI-17
 
 
